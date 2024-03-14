@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Malpani</h1>
-<h3 align="center">AI Engineer Intern @RADICALX | Chairperson @IEEE Computer Society</h3>
+<h3 align="center">Former SDE Intern @Central Coalfields Limited | Chairperson @IEEE Computer Society</h3>
 
-- I'm currently working as a **Artificial Intelligence Engineer Intern at RadicalX**
+- I'm currently working as a **Chairperson @IEEE Computer Society**
 
 - 🌱 I’m currently learning **Django Framework, Competitive Coding**
 
