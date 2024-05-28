@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Malpani</h1>
-<h3 align="center">Former SDE Intern @Central Coalfields Limited | Chairperson @IEEE Computer Society</h3>
+<h3 align="center">SWE Intern @Zavya | Chairperson @IEEE Computer Society</h3>
 
 - I'm currently working as a **Chairperson @IEEE Computer Society**
 
