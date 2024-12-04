@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SiddhantMalpani?tab=repositories](https://github.com/SiddhantMalpani?tab=repositories)
 
-- 📝 I regularly post Content on LinkedIn [https://www.linkedin.com/in/siddhant-malpani-247199235/](https://www.linkedin.com/in/siddhant-malpani-247199235/)
+- 📝 I regularly post Content on LinkedIn [https://www.linkedin.com/in/siddhant-malpani-247199235/](https://www.linkedin.com/in/siddhant-malpani/)
 
-- 📫 How to reach me **code.siddhant0605@gmail.com**
+- 📫 How to reach me **siddhant.malpani77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15AiZR7WkBVSipmB4etB63KMuTQRAw27d/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UPe86qHtIVLCrllprmJokmtCrWRLYSWf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
