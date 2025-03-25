@@ -1,29 +1,51 @@
 <h1 align="center">Hi 👋, I'm Siddhant Malpani</h1>
-<h3 align="center">SWE Intern @Zavya | Chairperson @IEEE Computer Society</h3>
+<h3 align="center">Product & Software Enthusiast | Chairperson @IEEE CS | Ex-SWE Intern @Zavya</h3>
 
-- I'm currently working as a **Chairperson @IEEE Computer Society**
+- 🔭 I’m currently working as **Chairperson @IEEE Computer Society** (Managing 2000+ members)
 
-- 🌱 I’m currently learning **Django Framework, Competitive Coding**
+- 🌱 I’m currently exploring **Product Management, AI/ML, and Trading Strategies**
 
-- 👯 I’m looking to collaborate on **Food Billing System**
+- 🚀 I built **EvoRouteX**, an AI-powered last-mile delivery optimizer for quick commerce
 
-- 🤝 I’m looking for help with **React Development**
+- 👯 I’m looking to collaborate on **logistics optimization & fintech projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SiddhantMalpani?tab=repositories](https://github.com/SiddhantMalpani?tab=repositories)
+- 🤝 I’m open to networking opportunities in **Product & Software Engineering**
 
-- 📝 I regularly post Content on LinkedIn [https://www.linkedin.com/in/siddhant-malpani-247199235/](https://www.linkedin.com/in/siddhant-malpani/)
+- 📚 I have experience in **Product Management, Full-Stack Development, and Algorithmic Trading**
 
-- 📫 How to reach me **siddhant.malpani77@gmail.com**
+- 📝 I post insights on **Tech, Product, and AI** on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siddhant-malpani/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UPe86qHtIVLCrllprmJokmtCrWRLYSWf/view?usp=sharing)
+- 📂 Check out my projects: [GitHub Repositories](https://github.com/SiddhantMalpani?tab=repositories)
+
+- 📫 Reach me at **siddhant.malpani77@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siddhant-malpani-247199235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-malpani-247199235" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@siddhant_malpan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@siddhant_malpan1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddhant-malpani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-malpani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/siddhant_malpan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhant_malpan1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantmalpani&show_icons=true&locale=en&layout=compact" alt="siddhantmalpani" /></p>
+<h3 align="left">Tech Stack & Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantmalpani&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantmalpani&layout=compact&theme=radical" alt="Top Languages" />
+</p>
